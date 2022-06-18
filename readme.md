@@ -40,7 +40,7 @@ You can access data from the application through the following endpoints:
 
 #### Clone the Repo and rename it to suit your needs.
 ```bash
-git clone https://github.com/gwashh
+git clone 
 ```
 #### Initialize git and add the remote repository
 ```bash
